@@ -1,0 +1,1 @@
+{"blt_version":"2","description":"Fix gui Crew menu crash.","priority":"1000","name":"Crew Gui Fix","hooks":[{"hook_id":"lib\/managers\/menu\/crewmanagementgui","script_path":"lua\/crewmanagementgui.lua"},{"hook_id":"lib\/managers\/menu\/walletguiobject","script_path":"lua\/walletguiobject.lua"}],"author":"zzzz"}
